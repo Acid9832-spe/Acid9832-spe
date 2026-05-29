@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm acid 
 
-<!--
-**Acid9832-spe/Acid9832-spe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal think tank! I'm an independent mind charting my own course, currently building my foundations in computer science to bridge the gap between human mind and technology
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on 
+- 🛠️ Learning Python & core programming fundamentals to tackle the hard science toolset.
+- 📐 Brushing up on mathematics and exploring advanced tools like Manim for mathematical visualization.
+- 🧠 Deeply interested in **Computational Psychology** and **Brain-Computer Interfaces (BCI)**, especially exploring "intention conflict."
+  
+###  Long-term Goals- Pursuing overseas studies in CS/Cognitive Science intersection.
+- One day visiting and collaborating with top-tier global tech institutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Not a follower, just standing on the shoulders of giants to see further."*
